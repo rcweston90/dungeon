@@ -1,0 +1,4 @@
+# Godot 4 import cache & editor state
+.godot/
+*.import
+export_presets.cfg
